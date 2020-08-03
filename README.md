@@ -2,8 +2,8 @@
 A simple script for colored text input generation.
 
 
-###Requirements:
+### Requirements:
 
-Figlet[http://www.figlet.org/]
+Figlet [http://www.figlet.org/]
 
 Toilet
